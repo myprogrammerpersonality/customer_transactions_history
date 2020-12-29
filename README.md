@@ -1,5 +1,5 @@
 # Visualiziation and Forecasting of Time Series
-with focus on modularity and ease of use
+Based on [sktime](https://github.com/alan-turing-institute/sktime) package.
 
 ## Installing Dependencies
 ```python
