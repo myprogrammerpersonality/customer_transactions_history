@@ -9,7 +9,7 @@ pip install -r requierments.txt
 ## Usage
 ```python
     from utils import *
-    ```
+```
 
 ## Goals
 
