@@ -1,10 +1,13 @@
 # Visualiziation and Forecasting of Time Series
 with focus on modularity and ease of use
 
+## Installing Dependencies
+```python
+pip install -r requierments.txt
+```
+
 ## Usage
-1. download utils.py file
-2. put that in the same directory as the production.py file
-3. ```python
+```python
     from utils import *
     ```
 
